@@ -2,6 +2,8 @@
 
 # Linear Types in Haskell
 
+[![DOI](https://zenodo.org/badge/887581222.svg)](https://doi.org/10.5281/zenodo.15116852)
+
 Haskell project containing the code I developed to accompany my Bachelor's thesis: "Tipos Lineales en Haskell" (Linear types in Haskell).
 
 The project uses the GHC extension `LinearTypes` that enables the use of linear types.
