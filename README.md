@@ -1,4 +1,4 @@
-![Logo](image.png)
+![Logo](https://socialify.git.ci/jpyamamoto/linear-types/image?font=Rokkitt&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fjpyamamoto%2Flinear-types%2Frefs%2Fheads%2Fmain%2Flogo.svg&name=1&owner=1&pattern=Plus&theme=Auto)
 
 # Linear Types in Haskell
 
