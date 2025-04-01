@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+<g transform="matrix(0.97 0 0 -0.97 540 540)"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-555, -250)" d="M 1055 250 Q 1055 190 1012 141 Q 969 92 896 92 Q 858 92 828 106 Q 798 120 781 140 Q 764 160 755 180 Q 746 200 741 214 L 738 228 L 738 230 L 405 230 Q 71 230 68 232 Q 55 238 55 250 Q 55 262 68 268 Q 71 270 405 270 L 738 270 L 738 272 L 740 280 Q 742 287 745 297 Q 748 307 754 321 Q 760 335 771 348 Q 782 361 796 374 Q 810 387 832 396 Q 854 405 881 408 L 891 408 Q 969 408 1012 360 Q 1055 312 1055 250 Z M 896 132 Q 948 132 981 166 Q 1014 200 1014 250 Q 1014 301 985 330 Q 956 359 920 367 Q 914 368 891 368 Q 853 368 816 338 Q 779 308 778 250 Q 778 198 812 165 Q 846 132 896 132 Z" stroke-linecap="round" />
+</g>
+</svg>
